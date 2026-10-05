@@ -855,8 +855,9 @@
     const SUPABASE_URL =
         "https://jegwmoundvbngyjgvytl.supabase.co";
 
-    const SUPABASE_PUBLISHABLE_KEY =
-        "REPLACE_WITH_YOUR_SUPABASE_PUBLISHABLE_KEY";
+    
+const SUPABASE_PUBLISHABLE_KEY =
+    "sb_publishable_LH5kSeveJMUEp3vMj6Uppg_DGKckdbo";
 
 
     const supabaseClient =
